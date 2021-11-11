@@ -18,8 +18,8 @@ let firstName = arr[0];
 
 //Code Here
 
-let lastItemRemoved = arr.pop();
-console.log(arr);
+// let lastItemRemoved = arr.pop();
+// console.log(arr);
 
 ////////// PROBLEM 3 //////////
 
@@ -33,7 +33,9 @@ var family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 
 //Code Here
 
-
+for(let i = 0; i<family.length; i++){
+  console.log(family[i]);
+};
 
 ////////// PROBLEM 4 //////////
 
